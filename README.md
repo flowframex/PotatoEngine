@@ -1,4 +1,4 @@
-# 🥔 PotatoEngine — GT730 Fermi Edition
+# 🥔 PotatoEngine — GTXxx Edition
 
 **Zero-copy CUDA upscaler: 540p → 1080p, entirely in VRAM.**  
 Built for NVIDIA GT730 **GF108 Fermi (sm_21)** — the hardest GPU to support in 2024.  
